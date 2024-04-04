@@ -1,5 +1,4 @@
 import { Box, Button, Menu, MenuButton, MenuItem, MenuList, Text } from '@chakra-ui/react'
-import React from 'react'
 import { LANGUAGE_VERSIONS } from '../contants'
 
 interface IProps {

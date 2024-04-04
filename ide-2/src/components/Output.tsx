@@ -1,6 +1,6 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 import { Box, Button, Text, useToast } from '@chakra-ui/react'
-import React, { useState } from 'react'
+import { useState } from 'react'
 import { executeCode } from '../api';
 
 const Output = ({ editorRef, language }: any) => {
